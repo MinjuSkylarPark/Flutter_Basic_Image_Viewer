@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-A simple image viewer / gallery :)
+A simple image viewer with Flutter :)
